@@ -8,8 +8,10 @@ import matplotlib.pyplot as plt
 class Util:
 
   @staticmethod
-  def load(which, datapath='/home/d/Dropbox/RESEARCH/CAROTID/DATA/Nathan Arnett Calcification/'):
-
+  def load(which, datapath='/raid/mpsych/CACTAS/DATA/Nathan Arnett Calcification/'):
+    #datapath='/raid/mpsych/CACTAS/DATA/Nathan Arnett Calcification/'
+    #datapath='/home/d/Dropbox/RESEARCH/CAROTID/DATA/Nathan Arnett Calcification/'
+    #datapath='/Users/jiehyun/Jenna/UMassBoston/Research/Nathan_Arnett_Calcification/'
     DATASETS = sorted([v for v in os.listdir(datapath) if os.path.isdir(datapath + v)])
 
     D = DATASETS[which]
