@@ -73,7 +73,7 @@ class unet_wrapper:
 
         x = np.asarray(imgs_np,dtype=np.float32)/255
         y = np.asarray(masks_np,dtype=np.float32)/255
-        x = x.reshape(y.shape[0], y.shape[1], y.shape[2], 1)
+        x = x.reshape(x.shape[0], x.shape[1], x.shape[2], 1)
         y = y.reshape(y.shape[0], y.shape[1], y.shape[2], 1)
 
         print(x.shape, y.shape)
@@ -105,10 +105,11 @@ class unet_wrapper:
         model = custom_unet(
             input_shape,
             filters=32,
-            use_batch_norm=True,
-            dropout=0.3,
+            use_batch_norm=False,
+            dropout=0.5,
             dropout_change_per_layer=0.0,
-            num_layers=5
+            num_classes=1,
+            output_activation='sigmoid'
         )
 
         from keras.callbacks import ModelCheckpoint
