@@ -74,7 +74,7 @@ Here is an SCCT Poster: <br/>
      style="display: block; margin-right: auto; margin-left: auto; width: 40%;" /><br/>
 
 ## License 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/jiehyunjkim/cs410_upenn/blob/master/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/jiehyunjkim/CACTAS/blob/main/LICENSE) file for details.
 
 ## Contact
 For any questions or comments, feel free to reach out to:
