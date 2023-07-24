@@ -23,6 +23,9 @@ Here is an example of CACTAS-Tool: <br/>
 <a href="https://drive.google.com/file/d/1w6Onom28gJ2OYg4Dir4BnLg6rkaiZpa-">
      <img src="https://drive.google.com/file/d/1w6Onom28gJ2OYg4Dir4BnLg6rkaiZpa-" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
+![SCCT_Poster](https://github.com/jiehyunjkim/CACTAS/assets/54910137/7bb758ac-0377-4a41-9754-4d10541f6eee)
+
+
 **Image segmentation:** [keras_2d_unet_usingAPI_v1.ipynb](https://github.com/jiehyunjkim/cs410_upenn/blob/master/experiments/keras_2d_unet_usingAPI_v1.ipynb),
 [keras_swinUnetr_full_v11.ipynb](https://github.com/jiehyunjkim/cs410_upenn/blob/master/experiments/keras_swinUnetr_full_v11.ipynb),
 [SwinUnetR_Chunks_Try5.ipynb](https://github.com/jiehyunjkim/cs410_upenn/blob/master/experiments/SwinUnetR_Chunks_Try5.ipynb)<br/>
