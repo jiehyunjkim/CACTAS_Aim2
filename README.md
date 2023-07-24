@@ -17,27 +17,12 @@ The goal of our project is to design a program that can characterize qualitative
 ## Usage
 
 Here is an example of CACTAS-Tool: <br/>
-<img src="https://drive.google.com/file/d/1w6Onom28gJ2OYg4Dir4BnLg6rkaiZpa-"
-     alt="SCCT Poster"
-     style="display: block; margin-right: auto; margin-left: auto; width: 40%;" /><br/>
-<a href="https://drive.google.com/file/d/1w6Onom28gJ2OYg4Dir4BnLg6rkaiZpa-">
-     <img src="https://drive.google.com/file/d/1w6Onom28gJ2OYg4Dir4BnLg6rkaiZpa-" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+![SCCT_Poster](https://github.com/jiehyunjkim/CACTAS/assets/54910137/7bb758ac-0377-4a41-9754-4d10541f6eee)<br/>
 
-![SCCT_Poster](https://github.com/jiehyunjkim/CACTAS/assets/54910137/7bb758ac-0377-4a41-9754-4d10541f6eee)
-
-
-**Image segmentation:** [keras_2d_unet_usingAPI_v1.ipynb](https://github.com/jiehyunjkim/cs410_upenn/blob/master/experiments/keras_2d_unet_usingAPI_v1.ipynb),
-[keras_swinUnetr_full_v11.ipynb](https://github.com/jiehyunjkim/cs410_upenn/blob/master/experiments/keras_swinUnetr_full_v11.ipynb),
-[SwinUnetR_Chunks_Try5.ipynb](https://github.com/jiehyunjkim/cs410_upenn/blob/master/experiments/SwinUnetR_Chunks_Try5.ipynb)<br/>
-**Risk estimation:** [RandomForest.ipynb](https://github.com/jiehyunjkim/cs410_upenn/blob/master/experiments/RandomForest.ipynb),
-[CNN.ipynb](https://github.com/jiehyunjkim/cs410_upenn/blob/master/experiments/CNN.ipynb)<br/>
-**Manual Features:** [upenn_plaque_features_oo_v1.py](https://github.com/jiehyunjkim/cs410_upenn/blob/master/experiments/upenn_plaque_features_oo_v1.py)<br/>
 
 ## Examples
 Here is an SCCT Poster: <br/>
-<img src="https://drive.google.com/file/d/1w6Onom28gJ2OYg4Dir4BnLg6rkaiZpa-"
-     alt="SCCT Poster"
-     style="display: block; margin-right: auto; margin-left: auto; width: 40%;" /><br/>
+![SCCT_Poster](https://github.com/jiehyunjkim/CACTAS/assets/54910137/7bb758ac-0377-4a41-9754-4d10541f6eee)<br/>
 
 ## License 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/jiehyunjkim/CACTAS/blob/main/LICENSE) file for details.
