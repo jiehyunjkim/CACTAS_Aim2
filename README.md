@@ -20,6 +20,8 @@ Here is an example of CACTAS-Tool: <br/>
 <img src="https://drive.google.com/file/d/1w6Onom28gJ2OYg4Dir4BnLg6rkaiZpa-"
      alt="SCCT Poster"
      style="display: block; margin-right: auto; margin-left: auto; width: 40%;" /><br/>
+<a href="https://drive.google.com/file/d/1w6Onom28gJ2OYg4Dir4BnLg6rkaiZpa-">
+     <img src="https://drive.google.com/file/d/1w6Onom28gJ2OYg4Dir4BnLg6rkaiZpa-" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
 **Image segmentation:** [keras_2d_unet_usingAPI_v1.ipynb](https://github.com/jiehyunjkim/cs410_upenn/blob/master/experiments/keras_2d_unet_usingAPI_v1.ipynb),
 [keras_swinUnetr_full_v11.ipynb](https://github.com/jiehyunjkim/cs410_upenn/blob/master/experiments/keras_swinUnetr_full_v11.ipynb),
