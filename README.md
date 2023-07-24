@@ -8,6 +8,7 @@ The goal of our project is to design a program that can characterize qualitative
   * [Table of Contents](#table-of-contents)
   * [CACTAS-Tool](#usage)
   * [Auto Detection Tool](#auto-detection-tool)
+  * [Risk Estimation](#risk-estimation)
 * [SCCT Conference Poster](#scct-conference-poster)
 * [License](#license)
 * [Acknowledgements](#acknowledgements)
