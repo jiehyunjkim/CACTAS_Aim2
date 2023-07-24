@@ -1,8 +1,6 @@
 # CACTAS
 Carotid Artery-Computed Tomographic Angiography Scoring
 
-The work of Josh Kotler was supported in part by the College of Science and Mathematics Dean’s Undergraduate Research Fellowship through fellowship support from Oracle, project ID R20000000025727
-
 # CACTAS Program
 
 ## Table of Contents
@@ -10,6 +8,7 @@ The work of Josh Kotler was supported in part by the College of Science and Math
 * [Usage](#usage)
 * [Examples](#examples)
 * [License](#license)
+* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 ## Project Overview
@@ -39,6 +38,9 @@ Here is an SCCT Poster: <br/>
 
 ## License 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/jiehyunjkim/CACTAS/blob/main/LICENSE) file for details.
+
+## Acknowledgements
+The work of Josh Kotler was supported in part by the College of Science and Mathematics Dean’s Undergraduate Research Fellowship through fellowship support from Oracle, project ID R20000000025727.
 
 ## Contact
 For any questions or comments, feel free to reach out to:
