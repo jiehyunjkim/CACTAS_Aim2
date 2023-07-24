@@ -1,7 +1,5 @@
-# CACTAS
+# CACTAS Project
 Carotid Artery-Computed Tomographic Angiography Scoring
-
-# CACTAS Program
 
 ## Table of Contents
 * [Project Overview](#project-overview)
