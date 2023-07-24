@@ -19,7 +19,7 @@ The goal of our project is to design a program that can characterize qualitative
 ## Usage
 
 Here is an example of CACTAS-Tool: <br/>
-<img src="[https://drive.google.com/uc?id=1_dJ1mKtbxw2RwG6fSvnVBvIOrn6HscQy](https://drive.google.com/file/d/1I64i-cC2hPYubqQzkgtiZEVIwr5RJLht/view?usp=sharing)"
+<img src="[https://drive.google.com/uc?id=1_dJ1mKtbxw2RwG6fSvnVBvIOrn6HscQy](https://drive.google.com/file/d/1I64i-cC2hPYubqQzkgtiZEVIwr5RJLht)"
      alt="SCCT Poster"
      style="display: block; margin-right: auto; margin-left: auto; width: 40%;" /><br/>
 
@@ -32,7 +32,7 @@ Here is an example of CACTAS-Tool: <br/>
 
 ## Examples
 Here is an SCCT Poster: <br/>
-<img src="[https://drive.google.com/uc?id=1_dJ1mKtbxw2RwG6fSvnVBvIOrn6HscQy](https://drive.google.com/file/d/1I64i-cC2hPYubqQzkgtiZEVIwr5RJLht/view?usp=sharing)"
+<img src="[https://drive.google.com/uc?id=1_dJ1mKtbxw2RwG6fSvnVBvIOrn6HscQy](https://drive.google.com/file/d/1I64i-cC2hPYubqQzkgtiZEVIwr5RJLht)"
      alt="SCCT Poster"
      style="display: block; margin-right: auto; margin-left: auto; width: 40%;" /><br/>
 
