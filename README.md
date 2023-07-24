@@ -21,13 +21,13 @@ Here is an example of CACTAS-Tool: <br/>
 ![Screen Shot 2023-07-18 at 3 59 33 PM](https://github.com/jiehyunjkim/CACTAS/assets/54910137/4c27601c-caf2-4c4d-bb6a-20977d0c9ae3)
 
 ## Auto Detection Tool
-To automatically detect plaques, we used UNet models - 2D UNet, 2D SwinUNETR, 3D SwinUNETR. 
+To automatically detect plaques, we used UNet models - 2D UNet, 2D SwinUNETR, and 3D SwinUNETR. 
 
 ## Risk Estimation 
-To check risk estimation from the auto-detection result, we used random forest model. 
+We used random forest model to check risk estimation from the auto-detection result. 
 
 ## SCCT Conference Poster
-Here is an SCCT Poster: <br/>
+The abstract of the CACTAS-Tool is accepted by The Society of Cardiovascular Computed Tomography(SCCT). Here is a poster for the presentation: <br/>
 ![SCCT_Poster](https://github.com/jiehyunjkim/CACTAS/assets/54910137/7bb758ac-0377-4a41-9754-4d10541f6eee)<br/>
 
 ## License 
