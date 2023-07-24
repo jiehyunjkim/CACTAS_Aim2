@@ -6,7 +6,7 @@ The goal of our project is to design a program that can characterize qualitative
 ## Table of Contents
 * [CACTAS Project](#cactas-project)
 * [Usage](#usage)
-* [SCCT Poster](#sccct-conference-poster)
+* [SCCT Conference Poster](#scct-conference-poster)
 * [License](#license)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
