@@ -14,11 +14,17 @@ The goal of our project is to design a program that can characterize qualitative
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
-## Usage
+## CACTAS-Tool
+CACTAS-Tool is a web-based single-click annotation tool that is 2.89 times faster than manual segmentation. <br/>
 
 Here is an example of CACTAS-Tool: <br/>
 ![Screen Shot 2023-07-18 at 3 59 33 PM](https://github.com/jiehyunjkim/CACTAS/assets/54910137/4c27601c-caf2-4c4d-bb6a-20977d0c9ae3)
 
+## Auto Detection Tool
+To automatically detect plaques, we used UNet models - 2D UNet, 2D SwinUNETR, 3D SwinUNETR. 
+
+## Risk Estimation 
+To check risk estimation from the auto-detection result, we used random forest model. 
 
 ## SCCT Conference Poster
 Here is an SCCT Poster: <br/>
