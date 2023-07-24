@@ -17,7 +17,7 @@ The goal of our project is to design a program that can characterize qualitative
 ## Usage
 
 Here is an example of CACTAS-Tool: <br/>
-<img src="https://drive.google.com/file/d/1w6Onom28gJ2OYg4Dir4BnLg6rkaiZpa-"
+<img src="http://www.cs.umb.edu/~jiehyun/SCCT_Poster.png"
      alt="SCCT Poster"
      style="display: block; margin-right: auto; margin-left: auto; width: 40%;" /><br/>
 
