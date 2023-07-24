@@ -23,8 +23,33 @@ Here is an example of CACTAS-Tool: <br/>
 ## Auto Detection Tool
 To automatically detect plaques, we used UNet models - 2D UNet, 2D SwinUNETR, and 3D SwinUNETR. 
 
+**Image segmentation:** [keras_2d_unet_usingAPI_v1.ipynb](https://github.com/jiehyunjkim/cs410_upenn/blob/master/experiments/keras_2d_unet_usingAPI_v1.ipynb),
+[keras_swinUnetr_full_v11.ipynb](https://github.com/jiehyunjkim/cs410_upenn/blob/master/experiments/keras_swinUnetr_full_v11.ipynb),
+[SwinUnetR_Chunks_Try5.ipynb](https://github.com/jiehyunjkim/cs410_upenn/blob/master/experiments/SwinUnetR_Chunks_Try5.ipynb)<br/>
+
+Here is an example of output of 2D UNet: <br/>
+<img src="https://drive.google.com/uc?id=1_dJ1mKtbxw2RwG6fSvnVBvIOrn6HscQy"
+     alt="unet_result"
+     style="display: block; margin-right: auto; margin-left: auto; width: 40%;" /><br/>
+2D Swin UNETR: <br/>
+<img src="https://drive.google.com/uc?id=1PRS8ZBuPxTA7uaLFgKA82vwgInwAGNbg"
+     alt="2dswinunet_result"
+     style="display: block; margin-right: auto; margin-left: auto; width: 40%;" /><br/>
+3D Swin UNETR: <br/>
+<img src="https://drive.google.com/uc?id=1TA8ywcK_O2q9hO2pJeZDqb2WknphPeix"
+     alt="3dswinunet_result"
+     style="display: block; margin-right: auto; margin-left: auto; width: 40%;" /><br/>
+
 ## Risk Estimation 
 We used random forest model to check risk estimation from the auto-detection result. 
+
+**Risk estimation:** [RandomForest.ipynb](https://github.com/jiehyunjkim/cs410_upenn/blob/master/experiments/RandomForest.ipynb),
+[CNN.ipynb](https://github.com/jiehyunjkim/cs410_upenn/blob/master/experiments/CNN.ipynb)<br/>
+
+Random Forest: <br/>
+<img src="https://drive.google.com/uc?id=1lp7lJ43KiYIL7VYEMZF0UQvTIMJ-vhoO"
+     alt="RF"
+     style="display: block; margin-right: auto; margin-left: auto; width: 40%;" /><br/>
 
 ## SCCT Conference Poster
 The abstract of the CACTAS-Tool is accepted by The Society of Cardiovascular Computed Tomography(SCCT). Here is a poster for the presentation: <br/>
