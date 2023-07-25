@@ -13,10 +13,11 @@ CACTAS(Carotid Artery-Computed Tomographic Angiography Scoring) project is an op
 * [Contact](#contact)
 
 ## CACTAS-Tool
-CACTAS-Tool is a web-based single-click annotation tool that is 2.89 times faster than manual segmentation. <br/>
+CACTAS-Tool is a web-based single-click annotation tool that is 2.89 times faster than manual segmentation. We perform 3D region growing based on a user-selected CT Hounsfield Unit (HU) intensity with a configurable tolerance threshold to include neighboring voxels. Visualization was set to window/level of 130/1500 HU.
 
 Here is an example of CACTAS-Tool: <br/>
 ![Screen Shot 2023-07-18 at 3 59 33 PM](https://github.com/jiehyunjkim/CACTAS/assets/54910137/4c27601c-caf2-4c4d-bb6a-20977d0c9ae3)
+
 
 Result:<br/>
 ![Figure01](https://github.com/jiehyunjkim/CACTAS/assets/54910137/76e7464a-3524-47e9-9a1c-d5d82810d0d0)
