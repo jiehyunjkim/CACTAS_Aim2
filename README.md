@@ -24,7 +24,7 @@ Plaque annotations with CTOOL were faster than with 3D Slicer (expert w/ CTOOL 3
 
 
 ## Auto Detection Tool
-To automatically detect plaques, we used UNet models - 2D UNet, 2D SwinUNETR, and 3D SwinUNETR. 
+To automatically detect plaques, we used UNet models - 2D UNet, 2D SwinUNETR, and 3D SwinUNETR. The number of patients data for training was 53 and 11 patients data were used for testing. The Intersecion over Union(IoU) for 2D UNet is 0.7397 and the validation IoU is 0.5652. IoU for 2D SwinUNETR is 0.8641 and the validation IoU is 0.5122. The dice score of 3D SwinUNETR is 0.9250. 
 
 **Image segmentation:** [keras_2d_unet_usingAPI_v1.ipynb](https://github.com/jiehyunjkim/cs410_upenn/blob/master/experiments/keras_2d_unet_usingAPI_v1.ipynb),
 [keras_swinUnetr_full_v11.ipynb](https://github.com/jiehyunjkim/cs410_upenn/blob/master/experiments/keras_swinUnetr_full_v11.ipynb),
@@ -44,7 +44,7 @@ Here is an example of output of 2D UNet: <br/>
      style="display: block; margin-right: auto; margin-left: auto; width: 40%;" /><br/>
 
 ## Risk Estimation 
-We used random forest model to check risk estimation from the auto-detection result. 
+Our goal is to estimate the risk for symptomatic versus asymptomatic plaque for ischemic stroke. For risk estimation model, we choose random forest and got 0.99 for training and 0.88 for training for both F1 Score and Accuracy.
 
 **Risk estimation:** [RandomForest.ipynb](https://github.com/jiehyunjkim/cs410_upenn/blob/master/experiments/RandomForest.ipynb),
 [CNN.ipynb](https://github.com/jiehyunjkim/cs410_upenn/blob/master/experiments/CNN.ipynb)<br/>
