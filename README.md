@@ -52,7 +52,7 @@ Our goal is to estimate the risk for symptomatic versus asymptomatic plaque for 
 Random Forest: <br/>
 <img src="https://drive.google.com/uc?id=1lp7lJ43KiYIL7VYEMZF0UQvTIMJ-vhoO"
      alt="RF"
-     style="display: block; margin-right: auto; margin-left: auto; width: 50%;" /><br/>
+     style="display: block; margin-right: auto; margin-left: auto; width: 30%;" /><br/>
 
 ## SCCT Conference Poster
 The abstract of the CACTAS-Tool is accepted by The Society of Cardiovascular Computed Tomography(SCCT). Here is a poster for the presentation: <br/>
