@@ -71,7 +71,7 @@ If you use this code in your research, please cite the following article:
   pages={S54--S55},
   year={2023},
   publisher={Elsevier},
-  url={https://www.journalofcardiovascularct.com/article/S1934-5925(23)00259-9/fulltext}
+  doi={https://doi.org/10.1016/j.jcct.2023.05.136}
 }
 ```
 
