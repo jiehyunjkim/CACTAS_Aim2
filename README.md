@@ -60,7 +60,7 @@ The abstract of the CACTAS-Tool is accepted by The Society of Cardiovascular Com
 ![SCCT_Poster](https://github.com/jiehyunjkim/CACTAS/assets/54910137/7bb758ac-0377-4a41-9754-4d10541f6eee)<br/>
 
 ## Citation
-If you use this code, please cite following paper.
+If you use this code in your research, please cite the following paper:
 ```
 @article{kim2023streamlined,
   title={Streamlined Carotid Artery Calcification Labeling For Cta Scans},
