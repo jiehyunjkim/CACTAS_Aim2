@@ -56,7 +56,9 @@ Random Forest: <br/>
      style="display: block; margin-right: auto; margin-left: auto; width: 60%;" /><br/>
 
 ## SCCT Conference Poster
-The abstract of the CACTAS-Tool is accepted by The Society of Cardiovascular Computed Tomography(SCCT). <br/> Here is a poster for the presentation: <br/>
+The abstract of the CACTAS-Tool is accepted by The Society of Cardiovascular Computed Tomography(SCCT). <br/>
+
+Here is a poster for the presentation: <br/>
 ![SCCT_Poster](https://github.com/jiehyunjkim/CACTAS/assets/54910137/7bb758ac-0377-4a41-9754-4d10541f6eee)<br/>
 
 ## Citation
