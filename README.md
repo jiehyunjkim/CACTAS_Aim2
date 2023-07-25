@@ -8,6 +8,7 @@ CACTAS(Carotid Artery-Computed Tomographic Angiography Scoring) project is an op
   * [Auto Detection Tool](#auto-detection-tool)
   * [Risk Estimation](#risk-estimation)
 * [SCCT Conference Poster](#scct-conference-poster)
+* [Citation](#citation)
 * [License](#license)
 * [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
@@ -57,6 +58,8 @@ Random Forest: <br/>
 ## SCCT Conference Poster
 The abstract of the CACTAS-Tool is accepted by The Society of Cardiovascular Computed Tomography(SCCT). Here is a poster for the presentation: <br/>
 ![SCCT_Poster](https://github.com/jiehyunjkim/CACTAS/assets/54910137/7bb758ac-0377-4a41-9754-4d10541f6eee)<br/>
+
+## Citation
 
 ## License 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/jiehyunjkim/CACTAS/blob/main/LICENSE) file for details.
