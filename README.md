@@ -22,7 +22,8 @@ Here is an example of CACTAS-Tool: <br/>
 
 Plaque annotations with CTOOL were faster than with 3D Slicer (expert w/ CTOOL 376.6±113.52s vs 631.2±325.88s, novice w/ CTOOL 126.59±21.57s vs 366.09±16.77s, t4=-12.40, p<0.0001). Annotation accuracy between both softwares was comparable (expert Jaccard w/ CTOOL 0.537±0.077 vs 0.464±0.238, novice Jaccard w/ CTOOL 0.481±0.070 vs 0.496±0.060). However, novice annotations will require expert validation or proofreading. All participants completed the NASA-TLX questionnaire to reveal lower mental, physical, and temporal demand with our software (expert w/ CTOOL 12.67 vs 16.334, novice w/ CTOOL 28.33±30.880 vs 33.33±14.727). Our streamlined plaque labeling software allows 2.89x faster annotations (1.68x for experts) with comparable accuracy to manual segmentation. <br/>
 
-![Figure01](https://github.com/jiehyunjkim/CACTAS/assets/54910137/76e7464a-3524-47e9-9a1c-d5d82810d0d0)
+![Figure01](https://github.com/jiehyunjkim/CACTAS_Aim2/assets/54910137/e1146514-904a-439a-825f-f35a266b3c50)
+
 
 
 ## Auto Detection Tool
@@ -60,7 +61,8 @@ Random Forest: <br/>
 The abstract of the CACTAS-Tool is accepted by The Society of Cardiovascular Computed Tomography(SCCT). <br/>
 
 Here is a poster for the presentation: <br/>
-![SCCT_Poster](https://github.com/jiehyunjkim/CACTAS/assets/54910137/7bb758ac-0377-4a41-9754-4d10541f6eee)<br/>
+![Copy of SCCT_Poster_v3](https://github.com/jiehyunjkim/CACTAS_Aim2/assets/54910137/e3fbf1f2-9f89-4f7b-93dc-0151c0882729)<br/>
+
 
 ## Citation
 If you use this code in your research, please cite the following article:
